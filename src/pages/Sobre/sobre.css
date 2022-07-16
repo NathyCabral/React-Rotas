@@ -1,0 +1,29 @@
+.container_perfil {
+    display: flex;
+    margin: 40px auto;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    width: 60%;
+}
+
+.about {
+    display: block;
+}
+
+.about h2 {
+    color: #A71A20;
+    font-weight: 900;
+    font-size: 36px;
+}
+
+.about p {
+    font-weight: 300;
+    font-size: 18px;
+}
+
+.profile-img {
+    width: 200x;
+    height: 200px;
+    border-radius: 10px;
+}
