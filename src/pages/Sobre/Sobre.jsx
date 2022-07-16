@@ -1,5 +1,5 @@
 import Header from '../../components/Header/Header'
-import image from '../../assets/hacker.svg'
+import image from '../../assets/super.svg'
 
 function Sobre() {
     return(

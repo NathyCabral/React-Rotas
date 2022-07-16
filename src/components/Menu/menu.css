@@ -22,7 +22,12 @@
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  color: #3f3d56;
+  color: #7fc5ff;
+}
+
+.link:hover{
+  color:#e4f3ff;
+  transition: 1s;
 }
 
 body,

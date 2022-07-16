@@ -1,41 +1,41 @@
 import { BsArrowReturnRight } from "react-icons/bs";
 import Header from "../../components/Header/Header";
-import image from "../../assets/super.svg";
+import image from "../../assets/diario.svg";
 
 import "./diario.css";
 
 const list = [
   {
     id: 1,
-    nome: "GIT",
+    nome: "Portfolio na Reprograma",
     descricao:
-      "O que é git? Git é um sistema de controle de versão de arquivos.",
-    imagem: "https://media.giphy.com/media/WzYCCB37Cbl5NdIXrx/giphy.gif",
-    link: "https://project-krypton.netlify.app/",
+      "Um site com conteúdos de introdução à programação, usando React.",
+    imagem: "https://media.giphy.com/media/ASRl1DWVWco2yab2kr/giphy.gif",
+    link: "https://portfolio-reprograma-nathycabral.netlify.app/",
   },
   {
     id: 2,
     nome: "HTML",
     descricao:
-      "HTML (Linguagem de Marcação de Hipertexto) é o código que você usa para estruturar uma página web e seu conteúdo.",
-    imagem: "https://media.giphy.com/media/ZO4ZnOueIT2OwyXEd6/giphy.gif",
-    link: "https://m-de-maravilhosa-nathallia-cabral.netlify.app/",
+      "Uma aplicação em HTML para treinar os fundamentos e semântica.",
+    imagem: "https://media.giphy.com/media/Qn7UUFxtx35SNh5k1h/giphy.gif",
+    link: "https://kriptonuniverse.netlify.app/",
   },
   {
     id: 3,
-    nome: "CSS",
+    nome: "M de maravilhosa",
     descricao:
-      'O Cascading Style Sheets (CSS) é uma "folha de estilo" composta por “camadas” e utilizada para definir a apresentação (aparência) em páginas da internet que adotam para o seu desenvolvimento linguagens de marcação (como XML, HTML e XHTML).',
-    imagem: "https://media.giphy.com/media/DXodg4sZyf6Qh7Tqma/giphy.gif",
-    link: "https://digimonjavascriptv.netlify.app/",
+      'Um projeto para finalização de módulo HTML e CSS.',
+    imagem: "https://media.giphy.com/media/ZO4ZnOueIT2OwyXEd6/giphy.gif",
+    link: "https://m-de-maravilhosa-nathallia-cabral.netlify.app/",
   },
   {
     id: 4,
     nome: "JavaScript",
     descricao:
-      " JavaScript (abreviado como JS) é uma linguagem de programação dinâmica cheia de recursos que quando aplicada em um documento HTML,  pode fornecer interatividade dinâmica em sites. Foi inventada por Brendan Eich, co-fundador do projeto Mozilla, da Fundação Mozilla e da Corporação Mozilla.",
-    imagem: "https://media.giphy.com/media/ASRl1DWVWco2yab2kr/giphy.gif",
-    link: "https://portfolio-reprograma-nathycabral.netlify.app/",
+      "Vamos procurar Digimons? Busca, cards e consumo de API através de Javascript puro.",
+    imagem: "https://media.giphy.com/media/DXodg4sZyf6Qh7Tqma/giphy.gif",
+    link: "https://digimonjavascriptv.netlify.app/",
   },
 ];
 

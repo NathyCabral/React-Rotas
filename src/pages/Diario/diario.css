@@ -7,15 +7,16 @@
     width: 75%;
     align-items: center;
     height: 80%;
-    background-color: #3f3d56;
+    background-color: #7fc5ff;
+    border-radius: 50px 0px;
     text-align: center
   }
   
   .cartao {
     width: 500px;
-    height: 800px;
+    height: 650x;
     border-radius: 5px;
-    background-color: rgb(187, 12, 12);
+    background-color: rgb(255, 255, 255);
     margin: 35px;
     align-items: center;
   }
