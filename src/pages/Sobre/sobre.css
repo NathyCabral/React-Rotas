@@ -12,9 +12,10 @@
 }
 
 .about h2 {
-    color: #A71A20;
+    color: #f50057;
     font-weight: 900;
-    font-size: 36px;
+    font-size: 24px;
+    font-family: 'Abril Fatface';
 }
 
 .about p {

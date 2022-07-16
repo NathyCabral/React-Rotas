@@ -1,14 +1,15 @@
 .header {
   padding: 80px;
   text-align: center;
-  color: white;
+  color: #fff;
   background-color: #7fc5ff;
   background-size: cover;
-  height: 500px;
-  margin-bottom: 100px;
+  height: 421px;
+  margin-bottom: 249px;
 }
 
 .header h1 {
+  color: #fff;
   font-size: 40px;
   font-family: 'Abril Fatface';
 }
