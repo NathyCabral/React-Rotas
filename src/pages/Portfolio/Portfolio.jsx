@@ -58,7 +58,7 @@ function Portfolio() {
       image={image} 
       description="ilustracao Hacker"
     >
-      Diário da reprograma
+      Meus Projetos
     </Header>
 
     <div className="cartao-container">
